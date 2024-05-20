@@ -1,0 +1,6 @@
+/front/node_modules
+/backend/.venv
+/backend/computer_vision/__pycache__/
+/backend/database/__pycache__/
+/backend/storage/__pycache__/
+/tests/__pycache__/

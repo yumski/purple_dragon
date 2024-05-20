@@ -1,0 +1,22 @@
+/* Define color variables */
+:root {
+    --primary-color: #6B38FB;
+    --secondary-color: #8E55DE;
+    --accent-color: #FF4081;
+    --text-color: #fefdfd;
+    --text-dark-color: #202124;
+    --background-color: #202124;
+    --background-light-color: #cdcdcd;
+  }
+  
+  /* Apply global styles */
+  html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  
+  
